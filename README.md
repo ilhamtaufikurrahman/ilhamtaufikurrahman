@@ -19,5 +19,5 @@ You may reach me by email at ilhamt35@gmail.com</p><p align='left'> You can view
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ilhamtaufikurrahman alt=ilhamtaufikurrahman /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ilhamtaufikurrahman&show_icons=true&include_all_commits=true)](https://github.com/ilhamtaufikurrahman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamtaufikurrahman&layout=compact)](https://github.com/ilhamtaufikurrahman/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ilhamtaufikurrahman&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ilhamtaufikurrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamtaufikurrahman&theme=radical&layout=compact)](https://github.com/ilhamtaufikurrahman/github-readme-stats)
